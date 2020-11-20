@@ -1,2 +1,6 @@
 # Youtube-Downloader
-A simple project to download YT videos
+
+# Planed features
+#   User can choose his own directory to place the download folder
+
+# Known Problems
